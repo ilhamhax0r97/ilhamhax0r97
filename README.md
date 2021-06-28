@@ -1,5 +1,5 @@
 ## Hey 👋, This is Ilham Wicaksono
-[![Github Badge](https://img.shields.io/badge/-ilhamhax0r97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ilhamhax0r97/)](https://www.github.com/ilhamhax0r97/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.ilhamwicaksono.web.id/)](https://www.ilhamwicaksono.web.id/) <p align='left'>Saya seorang web developer dan saya memiliki pengalaman 6 tahun dalam mengembangkan sebuah website.
+[![Github Badge](https://img.shields.io/badge/-ilhamhax0r97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ilhamhax0r97/)](https://www.github.com/ilhamhax0r97/) <p align='left'>Saya seorang web developer dan saya memiliki pengalaman 6 tahun dalam mengembangkan sebuah website.
 <br>Pengguna Linux, Windows dan Mac OS
 <br><b>POSISI</b><br>
 DEV REV-ZONE, EMS APP #INDOPRIDE & THRIVE RP
